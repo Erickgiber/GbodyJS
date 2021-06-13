@@ -48,5 +48,11 @@ Es muy facil, solo tienes que llamar una funcion y añadir datos, por ejemplo!
 ![alt text](https://i.ibb.co/4sghhLf/repeat.png)
 
 
+# ✅ Coloca un audio de fondo en tu pagina / app muy fácil!
+
+## ¿Cómo puedo hacer esto fácil y rápido?
+![alt text](https://i.ibb.co/HgnyLqB/bgSound.png)
+
+
 ## ¡Esta pequeña libreria está en desarrollo!
 ### ¡Pronto subiré mas actualizaciones!
