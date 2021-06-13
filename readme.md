@@ -37,7 +37,7 @@ Es muy facil, solo tienes que llamar una funcion y añadir datos, por ejemplo!
 ![alt text](https://i.ibb.co/J5DcTbQ/image.png)
 
 ### ¡Audios!
-![alt text](https://i.ibb.co/yqBCPPL/audio.png)
+![alt text](https://i.ibb.co/tmXqRVC/audio.png)
 
 ### ¡Videos!
-![alt text](https://i.ibb.co/rH0JZsC/video.png)
+![alt text](https://i.ibb.co/h8Jx1dY/video.png)
