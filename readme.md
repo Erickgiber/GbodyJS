@@ -11,38 +11,11 @@ siempre colocalo de primero antes de los otros script que tengas agregado!
 
 Es muy facil, solo tienes que llamar una funcion añadir datos, por ejemplo!
 
- image_({
-	src: "https://github.com/Tufowin/gameX/raw/main/img/bg/bg2.png",
-	container: "body",
-	clase: "imagen_GbodyJS", ## <-- (.imagen_GbodyJS)
+### ¡Imagenes!
+![alt text](https://i.ibb.co/J5DcTbQ/image.png)
 
-	// Información de carga
-	loaded: ()=> { alert('¡La imagen se ha cargado!'); },
-	error: ()=> { alert('Error, ¡algo anda mal!') }
- })
+### ¡Audios!
+![alt text](https://i.ibb.co/yqBCPPL/audio.png)
 
-
- audio_({
-	src: "./mp3/musica.mp3",
-	clase: "audio_GbodyJS" <-- (.audio_GbodyJS),
-	container: "#contenedor",
-	preload: true,
-	autoplay: true,
-	controls: true,
-	Información de carga
-	loaded: function() { contenido }; |o| ()=> { contenido },
-	error: function() { contenido }; |o| ()=> { contenido }
- })
-
- video_({
-	src: "./videos/video.mp4",
-	clase: "video_GbodyJS" <-- (.video_GbodyJS),
-	container: ".contenedor",
-	preload: true,
-	autoplay: true,
-	controls: true,
-
-	// Información de carga
-	loaded: function() { contenido }; |o| ()=> { contenido },
-	error: function() { contenido }; |o| ()=> { contenido }
- })
+### ¡Videos!
+![alt text](https://i.ibb.co/rH0JZsC/video.png)
