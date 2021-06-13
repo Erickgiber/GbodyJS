@@ -10,16 +10,26 @@ https://github.com/Tufowin/GbodyJS/blob/main/Gbody.js.
 A tu HTML mediante el **script** recuerda.
 siempre colocalo de primero antes de los otros script que tengas agregado!
 
-## Selectores en Gbody JS
+## Selectores en Gbody JS.
 Los selectores con Gbody JS son muy faciles de usar! Ejemplos.
 
-### Ejemplo para selecionar clases, id, atributos o etiquetas HTML
+### ¡Selector para todo! clases, id, atributos o etiquetas HTML
 ![alt text](https://i.ibb.co/0s2sX55/Selectores.png)
 
+### ¡Selector multiple! Tambien valido para clases entre otros...
+![alt text](https://i.ibb.co/khmxvkY/multiple.png)
 
 
+## Gbody JS, tambien poseé algunos metodos que te ayudaran!
 
-## ¿Cómo Usarlo?
+### Para crear elementos.
+![alt text](https://i.ibb.co/vhLRgD1/crear.png)
+
+## Para cambiar el valor de las variables de tu CSS
+![alt text](https://i.ibb.co/vknmdpB/variables.png)
+
+
+## Con Gbody Js, ¡Podras crear img, audio o video de manera dinámica!
 
 Es muy facil, solo tienes que llamar una funcion y añadir datos, por ejemplo!
 
