@@ -5,7 +5,7 @@ Esta pequeña libreria en desarrollo, es para las personas que estam comenzando 
 ## ¿Cómo comenzar?
 
 ### Puedes comenzar añadiendo este link.
-https://github.com/Tufowin/GbodyJS/blob/main/Gbody.js.
+<script src="https://github.com/Tufowin/GbodyJS/blob/main/Gbody.js."></script>
 
 A tu HTML mediante el **script** recuerda.
 siempre colocalo de primero antes de los otros script que tengas agregado!
