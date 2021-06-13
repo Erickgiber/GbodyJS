@@ -5,7 +5,7 @@ Esta pequeña libreria en desarrollo, es para las personas que estam comenzando 
 ## ¿Cómo comenzar?
 
 ### Puedes comenzar añadiendo este script a tu HTML.
-### <script src="https://acortar.link/GbodyJS"></script>
+### <script src="https://n9.cl/gbodyjs"></script>
 #### O bien, puedes descargarlo directo desde este repositorio. 
 
 **Siempre** colocalo de primero antes de los otros script que tengas agregado!
