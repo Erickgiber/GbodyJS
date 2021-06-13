@@ -1,4 +1,4 @@
-# Gbody JS by Giiber Developer ❤
+# ❤ Gbody JS by Giiber Developer
 
 Esta pequeña libreria en desarrollo, es para las personas que estam comenzando en la programación con JavaScript.
 
@@ -45,8 +45,6 @@ Es muy facil, solo tienes que llamar una funcion y añadir datos, por ejemplo!
 # ⭐ Puedes repetir imagenes, videos o audios.
 
 ## ¿Cómo se puede hacer esto con Gbody JS?
-
-### Solo agregas el modo repeat: true, y el total de repeticiones!
 ![alt text](https://i.ibb.co/4sghhLf/repeat.png)
 
 
