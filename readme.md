@@ -45,7 +45,7 @@ Es muy facil, solo tienes que llamar una funcion y añadir datos, por ejemplo!
 # ⭐ Puedes repetir imagenes, videos o audios.
 
 ## ¿Cómo se puede hacer esto con Gbody JS?
-![alt text](https://i.ibb.co/4sghhLf/repeat.png)
+![alt text](https://i.ibb.co/fND6h9y/repeat.png)
 
 
 # ✅ Coloca un audio de fondo en tu web fácil!
