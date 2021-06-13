@@ -20,7 +20,7 @@ Los **selectores** con Gbody JS son muy faciles de usar! Ejemplos.
 ![alt text](https://i.ibb.co/khmxvkY/multiple.png)
 
 
-## Gbody JS, tambien poseé algunos metodos que te ayudaran!
+## Gbody JS, tambien posee algunos metodos que te ayudaran!
 
 ### Para crear elementos.
 ![alt text](https://i.ibb.co/vhLRgD1/crear.png)
