@@ -42,5 +42,13 @@ Es muy facil, solo tienes que llamar una funcion y añadir datos, por ejemplo!
 ### ¡Videos!
 ![alt text](https://i.ibb.co/h8Jx1dY/video.png)
 
+## Puedes repetir imagenes, videos o audios.
+
+## ¿Cómo se puede hacer esto con Gbody JS?
+
+### Solo agregas el modo repeat: true, y el total de repeticiones!
+![alt text](https://i.ibb.co/4sghhLf/repeat.png)
+
+
 ## ¡Esta pequeña libreria está en desarrollo!
 ### ¡Pronto subiré mas actualizaciones!
