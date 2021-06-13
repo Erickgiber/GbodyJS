@@ -1,11 +1,12 @@
 # Gbody JS by Giiber Developer ❤
 
-Esta pequeña libreria en desarrollo, es para las personas que estam comenzando en la programacion.
+Esta pequeña libreria en desarrollo, es para las personas que estam comenzando en la programación con JavaScript.
 
 ## ¿Cómo comenzar?
 
 ### Puedes comenzar añadiendo este script a tu HTML.
-### <script src="https://raw.githubusercontent.com/Tufowin/GbodyJS/main/Gbody.js"></script>
+### <script src="https://acortar.link/GbodyJS"></script>
+#### O bien, puedes descargarlo directo desde este repositorio. 
 
 **Siempre** colocalo de primero antes de los otros script que tengas agregado!
 
