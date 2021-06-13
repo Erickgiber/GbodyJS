@@ -1,17 +1,16 @@
-# Gbody JS by Giiber Developer
+# Gbody JS by Giiber Developer ❤
 
 Esta pequeña libreria en desarrollo, es para las personas que estam comenzando en la programacion.
 
 ## ¿Cómo comenzar?
 
-### Puedes comenzar añadiendo este link.
-<script src="https://github.com/Tufowin/GbodyJS/blob/main/Gbody.js."></script>
+### Puedes comenzar añadiendo este script a tu HTML.
+#### <script src="https://github.com/Tufowin/GbodyJS/blob/main/Gbody.js."></script>
 
-A tu HTML mediante el **script** recuerda.
-siempre colocalo de primero antes de los otros script que tengas agregado!
+**Siempre** colocalo de primero antes de los otros script que tengas agregado!
 
 ## Selectores en Gbody JS.
-Los selectores con Gbody JS son muy faciles de usar! Ejemplos.
+Los **selectores** con Gbody JS son muy faciles de usar! Ejemplos.
 
 ### ¡Selector para todo! clases, id, atributos o etiquetas HTML
 ![alt text](https://i.ibb.co/0s2sX55/Selectores.png)
