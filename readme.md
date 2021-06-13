@@ -41,3 +41,6 @@ Es muy facil, solo tienes que llamar una funcion y añadir datos, por ejemplo!
 
 ### ¡Videos!
 ![alt text](https://i.ibb.co/h8Jx1dY/video.png)
+
+### ¡Esta pequeña libreria está en desarrollo!
+### ¡Pronto subiré mas actualizaciones!
