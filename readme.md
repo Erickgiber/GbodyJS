@@ -1,58 +1,74 @@
-# ❤ Gbody JS by Giiber Developer
+# ❤️ Gbody JS
 
-Esta pequeña libreria en desarrollo, es para las personas que estam comenzando en la programación con JavaScript.
+This little library in development is for people who are just starting out in JavaScript programming.
 
-## ¿Cómo comenzar?
+## 🔥 How to start?
 
-### Puedes comenzar añadiendo este script a tu HTML.
+### You can start by adding this script to your HTML.
 ### <script src="https://n9.cl/gbodyjs"></script>
-#### O bien, puedes descargarlo directo desde este repositorio. 
+#### Or, you can download it directly from this repository.
 
-**Siempre** colocalo de primero antes de los otros script que tengas agregado!
+**Always** put it first before the other scripts you have added!
 
-## Selectores en Gbody JS.
-Los **selectores** con Gbody JS son muy faciles de usar! Ejemplos.
+## 🔥 Selectors in Gbody JS.
 
-### ¡Selector para todo! clases, id, atributos o etiquetas HTML
-![alt text](https://i.ibb.co/0s2sX55/Selectores.png)
+### - Selector for everything! classes, id, attributes or HTML tags.
+#### Some examples are:
+```sh
+s_('h1');
 
-### ¡Selector multiple! Tambien valido para clases entre otros...
-![alt text](https://i.ibb.co/khmxvkY/multiple.png)
+s_('.h1');
 
+s_('#h1');
 
-## Gbody JS, tambien posee algunos metodos que te ayudaran!
+s_('[attribute="h1']);
 
-### Para crear elementos. (Se ha cambiado el crear por create_()).
-![alt text](https://i.ibb.co/vhLRgD1/crear.png)
-
-## Para cambiar el valor de las variables de tu CSS
-![alt text](https://i.ibb.co/vknmdpB/variables.png)
+let title = s_('h1');
+title.textContent = "Hello, World!";
 
 
-## Con Gbody Js, ¡Podras crear img, audio o video de manera dinámica!
+s_All('h1')[0];
 
-Es muy facil, solo tienes que llamar una funcion y añadir datos, por ejemplo!
+let title_All = s_All('h1')[0];
+title_All.textContent = "Hello, World!"
+```
 
-### ¡Imagenes!
-![alt text](https://i.ibb.co/J5DcTbQ/image.png)
+## 🔥 Dynamic audio with Gbody JS.
 
-### ¡Audios!
-![alt text](https://i.ibb.co/tmXqRVC/audio.png)
+### - You can create audio element.
+#### Some examples are:
+```sh
+audio_({
+  src: "./src/media/audio.mp3",
+  container: "body",
+  controls: true,
+  preload: true,
+  autoplay: true
+});
+```
 
-### ¡Videos!
-![alt text](https://i.ibb.co/h8Jx1dY/video.png)
+## 🔥 Dynamic image with Gbody JS.
 
-# ⭐ Puedes repetir imagenes, videos o audios.
+### - You can create image element.
+#### Some examples are:
+```sh
+image_({
+  src: "./src/media/image.png",
+  container: ".gallery"
+});
+```
 
-## ¿Cómo se puede hacer esto con Gbody JS?
-![alt text](https://i.ibb.co/fND6h9y/repeat.png)
+## 🔥 Dynamic video with Gbody JS.
 
+### - You can create video element.
+#### Some examples are:
+```sh
+video_({
+  src: "./src/media/video.mp4",
+  container: ".content"
+});
+```
 
-# ✅ Coloca un audio de fondo en tu web fácil!
+### Writing...
 
-## ¿Cómo puedo hacer esto fácil y rápido?
-![alt text](https://i.ibb.co/HgnyLqB/bgSound.png)
-
-
-## ¡Esta pequeña libreria está en desarrollo!
-### ¡Pronto subiré mas actualizaciones!
+### ⭐ Made with love by Giiber Developer!
