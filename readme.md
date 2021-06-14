@@ -22,7 +22,7 @@ Los **selectores** con Gbody JS son muy faciles de usar! Ejemplos.
 
 ## Gbody JS, tambien posee algunos metodos que te ayudaran!
 
-### Para crear elementos. (Se ha cambiado el crear por create_).
+### Para crear elementos. (Se ha cambiado el crear por create_()).
 ![alt text](https://i.ibb.co/vhLRgD1/crear.png)
 
 ## Para cambiar el valor de las variables de tu CSS
