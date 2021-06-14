@@ -104,7 +104,7 @@ bgSound_({
 // that easy
 ```
 
-## ✅  Preloader
+## ✅  Preloader.
 ### You can put a background audio with the following example:
 ```sh
 bgPreloader_({
