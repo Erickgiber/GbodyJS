@@ -124,7 +124,7 @@ bgPreloader_({
 // if the data is not set, it will read the scr as pure html.
 ```
 
-## ❤️ Change variable values ​​in CSS from JavaScript.
+## ✅ Change variable values ​​in CSS from JavaScript.
 ### You can change these values ​​like this:
 
 ## CSS Example:
