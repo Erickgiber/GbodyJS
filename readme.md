@@ -5,7 +5,9 @@ This little library in development is for people who are just starting out in Ja
 ## 🔥 How to start?
 
 ### You can start by adding this script to your HTML.
-### <script src="https://giibernet.com/static/js/Gbody.js"></script>
+```sh
+<script src="https://giibernet.com/static/js/Gbody.js"></script>
+```
 #### Or, you can download it directly from this repository.
 
 **Always** put it first before the other scripts you have added!
