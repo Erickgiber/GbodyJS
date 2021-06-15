@@ -141,4 +141,14 @@ root_.setProperty('--bg', '#000');
 // root_setProperty(name:variable, new:value);
 ```
 
+## ⭐ Extract data from JSON.
+```sh
+getJSON_({
+    url: "https://randomuser.me/api/",
+    event: data => { console.log(data) }
+});
+```
+### Image Example:
+![Extract data from JSON](https://i.ibb.co/L5Nz00T/getJSON.png)
+
 ### ❤️ Made with love by Giiber Developer!
