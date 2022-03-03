@@ -149,4 +149,4 @@ getJSON_({
 ### Image Example:
 ![Extract data from JSON](https://i.ibb.co/rtxjbkc/carbon-1.png)
 
-### ❤️ Made with love by Giiber Developer!
+### ❤️ Made with love by Erickgiber!
